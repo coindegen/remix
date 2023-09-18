@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2023-09-18T04:49:58.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eSTepOLiTgG0VG7_ndw9" version="21.6.5" type="github">
+  <diagram name="Page-1" id="4mbQmIPBIwOSGUWnRSwn">
+    <mxGraphModel dx="2396" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HHLrlIW7dgs84ATpGye1-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="105" width="420" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-1" value="Splinter.art&lt;br&gt;https://github.com/guminc/splinter.art&lt;br&gt;&lt;br&gt;This is a Remix app&lt;br&gt;it triggers a deployment action/job" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-3" value="Scatter.art V2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="670" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-4" value="remilia.scatter.art" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="690" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-5" value="HoneyJar.xyz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-7" value="Sprotos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="668" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-8" value="Comfy.art" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="690" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.777;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HHLrlIW7dgs84ATpGye1-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="510" as="sourcePoint" />
+            <mxPoint x="370" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="HHLrlIW7dgs84ATpGye1-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.539;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-1" target="HHLrlIW7dgs84ATpGye1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-13" value="Deploy Splinter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-16" value="Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="178" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-17" value="Blockchain ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-19" value="Splinter.art Deployment Form" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-23" value="Provision Job&lt;br&gt;- flyctl launch --region iad my-new-splinter&lt;br&gt;- flyctl launch --region iad my-new-splinter-staging&lt;br&gt;&lt;br&gt;(can be handled by Fly Machines API)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="580" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-13" target="HHLrlIW7dgs84ATpGye1-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="430" as="sourcePoint" />
+            <mxPoint x="1070" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="105" width="340" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-26" value="Splinter.art Admin Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-27" value="https://github.com/sproto/sproto-theme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-28" value="Theme Repo URI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-29" value="Rebuild and Deploy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="365" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-27" target="HHLrlIW7dgs84ATpGye1-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="340" as="sourcePoint" />
+            <mxPoint x="1880" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-31" value="Github Repo&lt;br&gt;(fork)&lt;br&gt;managed by splinter owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="70" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.578;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720" y="350" as="sourcePoint" />
+            <mxPoint x="1950" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-33" value="Splinter Official Theme Repo&lt;br&gt;(fork)&lt;br&gt;https://github.com/guminc/splinter-theme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="350" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.529;exitY=0.783;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-25" target="HHLrlIW7dgs84ATpGye1-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="510" as="sourcePoint" />
+            <mxPoint x="1620" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-35" value="Deployment/Theme Integration Job&lt;br&gt;- git clone https://github.com/guminc/splinter-core.git&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- git checkout&amp;nbsp;https://github.com/sproto/sproto-theme&amp;nbsp;app/theme&lt;br&gt;- npm run build&lt;br&gt;- flyctl deploy --app sproto-splinter-app&lt;br&gt;&lt;br&gt;(this step must run in CI)&lt;br&gt;leverage 3rd Party tool like CircleCI, Jenkins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="580" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.358;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.878;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-1" target="HHLrlIW7dgs84ATpGye1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="440" as="sourcePoint" />
+            <mxPoint x="850" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-1" target="HHLrlIW7dgs84ATpGye1-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="440" as="sourcePoint" />
+            <mxPoint x="850" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-38" value="Sproto Gremlins Splinter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-39" value="https://github.com/guminc/splinter-core.git&lt;br&gt;https://github.com/scatter-art/scatter-theme.git" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="870" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="590" as="sourcePoint" />
+            <mxPoint x="190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-44" value="Job Runner&lt;br&gt;(CI Service)&lt;br&gt;&lt;br&gt;Neds to:&lt;br&gt;- queue deployment jobs&lt;br&gt;- execute deployment jobs&lt;br&gt;- report progress back (via subscription or API route)&lt;br&gt;&lt;br&gt;Options:&lt;br&gt;1. write our own microservice&lt;br&gt;2. leverage existing CI tools&lt;br&gt;&amp;nbsp;- Github Actions&lt;br&gt;- Circle&lt;br&gt;- Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="245" width="330" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-45" value="&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; text-decoration: var(--link-decoration); cursor: pointer; outline: 0px; word-break: break-word; text-align: left; background-color: rgba(2, 2, 2, 0.06);&quot; tabindex=&quot;0&quot; role=&quot;button&quot; title=&quot;https://docs.github.com/en/rest/actions/workflows?apiVersion=2022-11-28#create-a-workflow-dispatch-event&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;https://docs.github.com/en/rest/actions/workflows?apiVersion=2022-11-28#create-a-workflow-dispatch-event&quot; class=&quot;anchor-1X4H4q anchorUnderlineOnHover-wiZFZ_&quot;&gt;https://docs.github.com/en/rest/actions/workflows?apiVersion=2022-11-28#create-a-workflow-dispatch-event&lt;/a&gt;&lt;br&gt;&lt;br&gt;How easy is it for us to parameterize these jobs?&lt;br&gt;&lt;br&gt;- git clone https://github.com/guminc/remilia.git&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- git checkout&amp;nbsp;https://github.com/sproto/sproto-theme&amp;nbsp;app/theme&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- npm run build&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- flyctl deploy --app sproto-splinter-app&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(this step must run in CI)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;leverage 3rd Party tool like CircleCI, Jenkins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="-7" width="810" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="HHLrlIW7dgs84ATpGye1-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="280" as="sourcePoint" />
+            <mxPoint x="545" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-50" value="Redis Volume&lt;br&gt;(for BullMQ)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="505" y="120" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-51" value="OPTIONAL MICROSERVICE (for later)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="198" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-52" value="https://github.com/guminc/splinter-core.git&lt;br&gt;https://github.com/sproto/sproto-theme" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="820" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.412;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.046;exitY=0.746;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-7" target="HHLrlIW7dgs84ATpGye1-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="650" as="sourcePoint" />
+            <mxPoint x="300" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HHLrlIW7dgs84ATpGye1-3" target="HHLrlIW7dgs84ATpGye1-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="820" as="sourcePoint" />
+            <mxPoint x="410" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-55" value="mysplintermanagementapp.com&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="840" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-250" width="340" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-62" value="Splinter.art Admin Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-290" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHLrlIW7dgs84ATpGye1-63" value="Welcome User!&lt;br&gt;&lt;br&gt;You have 2 Whitelabels:&lt;br&gt;- Edit splinter #1&lt;br&gt;- Edit splinter #2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="-160" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
